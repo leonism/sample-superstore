@@ -4,7 +4,7 @@ This notebook is intended for those whose relatively new to EDA (Exploratory Dat
 
 - Python 3.7
 - Pandas 1.0.4
-- matplotlib 3.2.1
+- Matplotlib 3.2.1
 
 The learning curve designed even for those relatively coming from non-technical background. Each of the phase would only require for you to copy and paste the code to your Jupyter Notebook instance. The steps are describe as the following :
 
