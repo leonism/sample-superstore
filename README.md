@@ -15,4 +15,8 @@ The learning curve designed even for those relatively coming from non-technical 
 - 05 - Data Pivot - SampleSuperStore.ipynb
 - 06- Data Visualization - SampleSuperStore.ipynb
 
-So be sure to match those above mentioned technical requirements. Fell free to fork, download and enhance the Notebooks file. And please remember, as this only a weekend pet project, I'm doing them only for my personal interest only.
+So be sure to match those above mentioned technical requirements. Fell free to fork, download and enhance the Notebooks files. This is a work in progress, and I wouldn't consider this a finish project.
+
+
+Disclaimer:
+And please remember, as this only a weekend pet project, I'm doing them only for my personal interest only.
