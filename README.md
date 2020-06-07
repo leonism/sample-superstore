@@ -15,7 +15,7 @@ The learning curve was designed, even for those whose relatively coming from a n
 - 03 - [Data Grouping - SampleSuperStore.ipynb](https://github.com/leonism/sample-superstore/blob/master/03-%20Data%20Grouping%20-%20SampleSuperStore.ipynb)
 - 04 - [Data Sorting - SampleSuperStore.ipynb](https://github.com/leonism/sample-superstore/blob/master/04-%20Data%20Sorting%20-%20SampleSuperStore.ipynb)
 - 05 - [Data Pivot - SampleSuperStore.ipynb](https://github.com/leonism/sample-superstore/blob/master/05-%20Data%20Pivot%20-%20SampleSuperStore.ipynb)
-- [06- Data Visualization - SampleSuperStore.ipynb](https://github.com/leonism/sample-superstore/blob/master/06-%20Data%20Visualization%20-%20SampleSuperStore.ipynb)
+- 06- [Data Visualization - SampleSuperStore.ipynb](https://github.com/leonism/sample-superstore/blob/master/06-%20Data%20Visualization%20-%20SampleSuperStore.ipynb)
 
 So be sure to match those above mentioned technical requirements. Fell free to fork, download and enhance the Notebooks files. This is a work in progress, and I wouldn't consider this a finish project.
 
